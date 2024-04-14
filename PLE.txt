@@ -1,5 +1,4 @@
-"https://github.com/nokia-msm8937-dev/android_device_nokia_PLE" "device/nokia/PLE" "lineage-18.1"
-"https://github.com/nokia-msm8937/android_kernel_nokia_PLE" "kernel/nokia/PLE" "lineage-18.1"
-"https://github.com/nokia-msm8937-dev/android_device_nokia_msm8937-common" "device/nokia/msm8937-common" "lineage-18.1"
-"https://github.com/nokia-msm8937-dev/android_vendor_nokia_PLE" "vendor/nokia/PLE" "lineage-18.1"
-"https://github.com/nokia-msm8937-dev/android_vendor_nokia_msm8937-common" "vendor/nokia/msm8937-common" "lineage-18.1"
+"https://github.com/shravansayz/device_realme_RMX1901.git" "device/realme/RMX1901" test
+"https://github.com/shravansayz/kernel_realme_sdm710.git" "kernel/realme/RMX1901" "14"
+"https://github.com/shravansayz/vendor_realme_RMX1901" "vendor/realme/RMX1901" "14"
+"https://github.com/ij-israfil/packages_apps_ViPER4AndroidFX.git" "packages/apps/ViPER4AndroidFX" "v4a"
