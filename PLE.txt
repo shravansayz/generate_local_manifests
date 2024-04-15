@@ -1,4 +1,4 @@
 "https://github.com/shravansayz/device_realme_RMX1901.git" "device/realme/RMX1901" test
 "https://github.com/shravansayz/kernel_realme_sdm710.git" "kernel/realme/sdm710" "14"
-"https://github.com/shravansayz/vendor_realme_RMX1901" "vendor/realme/RMX1901" "14"
+"https://gitea.com/shravansayz/vendor_realme_RMX1901.git" "vendor/realme/RMX1901" "14"
 "https://github.com/kdrag0n/proton-clang.git" "prebuilts/clang/host/linux-x86/clang-proton" "master"
